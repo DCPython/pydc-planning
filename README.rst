@@ -1,4 +1,4 @@
-PyDC Planning
+PyDC 2014 Planning
 =============
 
 Core team
@@ -23,3 +23,10 @@ Core team
 +-----------------------------------+------------------------------------------+
 | Andrew Kuchling                   | Talk Organizer                           |
 +-----------------------------------+------------------------------------------+
+
+Location
+--------
+
+(Tentative!)
+
+- National Harbor, MD
