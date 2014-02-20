@@ -1,5 +1,5 @@
 PyDC 2014 Planning
-=============
+==================
 
 Core team
 ---------
@@ -29,10 +29,15 @@ Core team
 +-----------------------------------+------------------------------------------+
 | Jinesh Shah                       | Misc Organizer                           |
 +-----------------------------------+------------------------------------------+
+| Andrew T. Baker                   | Misc Organizer                           |
++-----------------------------------+------------------------------------------+
+| Jason Blum                        | Misc Organizer                           |
++-----------------------------------+------------------------------------------+
 
 Location
 --------
 
 (Tentative!)
 
+- Silver Spring Community Center at Veteran's Plaza (https://www6.montgomerycountymd.gov/apps/cupf/info/sscb.asp)
 - National Harbor, MD
