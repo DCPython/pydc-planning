@@ -40,7 +40,6 @@ Location
 *Tentative*
 
 - Silver Spring Community Center at Veteran's Plaza (https://www6.montgomerycountymd.gov/apps/cupf/info/sscb.asp)
-- National Harbor, MD
 
 Schedule
 --------
