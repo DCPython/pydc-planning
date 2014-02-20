@@ -47,6 +47,6 @@ Schedule
 
 *Tentative*
 
-- Friday: single track training for ~50 people on some topic, possibly "beginner" in the morning and "other stuff" in the afternoon. ("small room")
-- Saturday: dual track conference for ~100 people (two "small rooms")
-- Sunday: sprint for ~100 people (one "big room")
+- **Friday**: single track training for ~50 people on some topic, possibly "beginner" in the morning and "other stuff" in the afternoon. ("small room")
+- **Saturday**: dual track conference for ~100 people (two "small rooms")
+- **Sunday**: sprint for ~100 people (one "big room")
