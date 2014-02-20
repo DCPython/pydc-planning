@@ -4,7 +4,7 @@ PyDC 2014 Planning
 Core team
 ---------
 
-(Tentative!)
+*Tentative*
 
 +-----------------------------------+------------------------------------------+
 | **Name**                          | **Role**                                 |
@@ -37,7 +37,16 @@ Core team
 Location
 --------
 
-(Tentative!)
+*Tentative*
 
 - Silver Spring Community Center at Veteran's Plaza (https://www6.montgomerycountymd.gov/apps/cupf/info/sscb.asp)
 - National Harbor, MD
+
+Schedule
+--------
+
+*Tentative*
+
+- Friday: single track training for ~50 people on some topic, possibly "beginner" in the morning and "other stuff" in the afternoon. ("small room")
+- Saturday: dual track conference for ~100 people (two "small rooms")
+- Sunday: sprint for ~100 people (one "big room")
