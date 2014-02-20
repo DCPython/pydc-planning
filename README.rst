@@ -1,8 +1,8 @@
 PyDC 2014 Planning
 ==================
 
-Core team
----------
+Team
+----
 
 *Tentative*
 
