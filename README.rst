@@ -61,8 +61,9 @@ Young Coders
 - BYO Laptop, cheaper option (vs. raspberry pi)
 - Required registration form (legal waiver)
 - Volunteers
+- Make sure to plan in extra space, 30 students max.
 - Expenses
-    - Food
+    - Food, and a 2:30pm sugar snack
     - Flyers (handouts for the students) $<100
 - Free class, seek donations to fund
 - Contact google/rackspace/psf for dontations
