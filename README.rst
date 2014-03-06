@@ -63,6 +63,5 @@ Young Coders
     - Flyers $<100
 - Waiver
 - Free class, seek donations to fund
-    - Oreilly
-    - Google
-    - PSF
+- Contact google/rackspace/psf for dontations
+- Contact O'Reilly for stickers, and other things. Pearson too.
