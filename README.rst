@@ -57,10 +57,10 @@ Young Coders
 ~~~~~~~~~~~~
 
 - Volunteers
-- Food
 - Expenses
-    - XXX
+    - Food
+    - Flyers
 - Waiver
 - Free class, seek donations to fund
 - Contact google/rackspace/psf for dontations
-- Contact O'Reilly for stickers, and other things
+- Contact O'Reilly for stickers, and other things. Pearson too.
