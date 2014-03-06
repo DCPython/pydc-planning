@@ -59,4 +59,5 @@ Young Coders
 - Volunteers
 - Food
 - Expenses?
-
+    - XXX
+- Waiver
