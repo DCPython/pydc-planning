@@ -62,7 +62,7 @@ Young Coders
 - Volunteers
 - Expenses
     - Food
-    - Flyers $<100
+    - Flyers (handouts for the students) $<100
 - Waiver
 - Free class, seek donations to fund
 - Contact google/rackspace/psf for dontations
