@@ -56,6 +56,7 @@ Training
 Young Coders
 ~~~~~~~~~~~~
 
+- 12 & up
 - 9-4pm
 - BYO Laptop, cheaper option (vs. raspberry pi)
 - Required registration form (legal)
