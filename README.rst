@@ -58,6 +58,7 @@ Young Coders
 
 - Volunteers
 - Food
-- Expenses?
+- Expenses
     - XXX
 - Waiver
+- Free class, seek donations to fund
