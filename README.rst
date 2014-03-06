@@ -62,3 +62,5 @@ Young Coders
     - XXX
 - Waiver
 - Free class, seek donations to fund
+- Contact google/rackspace/psf for dontations
+- Contact O'Reilly for stickers, and other things
