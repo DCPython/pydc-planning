@@ -62,3 +62,6 @@ Young Coders
     - XXX
 - Waiver
 - Free class, seek donations to fund
+    - Oreilly
+    - Google
+    - PSF
