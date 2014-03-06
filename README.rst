@@ -56,7 +56,9 @@ Training
 Young Coders
 ~~~~~~~~~~~~
 
+- 9-4pm
 - BYO Laptop, cheaper option (vs. raspberry pi)
+- Required registration form (legal)
 - Volunteers
 - Expenses
     - Food
@@ -64,4 +66,4 @@ Young Coders
 - Waiver
 - Free class, seek donations to fund
 - Contact google/rackspace/psf for dontations
-- Contact O'Reilly for stickers, and other things. Pearson too.
+- Contact O'Reilly for stickers, and other things. Pearson too. Eddie - get details from Katie.
