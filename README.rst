@@ -60,6 +60,7 @@ Young Coders
 - Food
 - Expenses
     - XXX
+    - Printing costs
 - Waiver
 - Free class, seek donations to fund
     - Oreilly
