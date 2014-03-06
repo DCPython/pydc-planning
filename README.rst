@@ -56,6 +56,7 @@ Training
 Young Coders
 ~~~~~~~~~~~~
 
+- BYO Laptop, cheaper option (vs. raspberry pi)
 - Volunteers
 - Expenses
     - Food
