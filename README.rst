@@ -46,7 +46,7 @@ Schedule
 
 *Tentative*
 
-- **Friday**: single track training for ~50 people on some topic, possibly "beginner" in the morning and "other stuff" in the afternoon. ("small room")
+- **Friday**: dual track training for ~50 people and ~30 "kids" (age 12 & up) on various topics, possibly "beginner" in the morning and "other stuff" in the afternoon. (two "small rooms"). The former managed by Tony Ojeda and the latter by Katie Cunningham.
 - **Saturday**: dual track conference for ~100 people (two "small rooms")
 - **Sunday**: sprint for ~100 people (one "big room")
 
