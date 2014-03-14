@@ -68,3 +68,10 @@ Young Coders
 - Free class, seek donations to fund
 - Contact google/rackspace/psf for dontations
 - Contact O'Reilly for stickers, and other things. Pearson too. Eddie - get details from Katie.
+
+Sponsors
+--------
+
+*Tentative*
+
+- Center for Open Science
