@@ -33,8 +33,8 @@ Team
 +-----------------------------------+------------------------------------------+
 | Jason Blum                        | Logistics Organizer (Lead)               |
 +-----------------------------------+------------------------------------------+
-| Jonathan Fichter                  | Elem. / Middle School Teacher            |
-|                                   | Who Hopes To Bring Students              |
+| Jonathan Fichter                  | Misc Organizer (Elem. / Middle School    |
+|                                   | Teacher Who Hopes To Bring Students )    |
 +-----------------------------------+------------------------------------------+
 | David Shang Lee                   | Misc Organizer                           |
 +-----------------------------------+------------------------------------------+
