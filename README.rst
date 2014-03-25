@@ -36,6 +36,8 @@ Team
 | Jonathan Fichter                  | Elem. / Middle School Teacher            |
 |                                   | Who Hopes To Bring Students              |
 +-----------------------------------+------------------------------------------+
+| David Shang Lee                   | Misc Organizer                           |
++-----------------------------------+------------------------------------------+
 
 Location
 --------
