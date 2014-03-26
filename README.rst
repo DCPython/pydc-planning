@@ -44,7 +44,7 @@ Location
 
 *Tentative*
 
-- Silver Spring Community Center at Veteran's Plaza (https://www6.montgomerycountymd.gov/apps/cupf/info/sscb.asp)
+- Silver Spring Community Center at Veteran's Plaza (http://www.montgomerycountymd.gov/cupf/info-reservation/SSCB.html)
 
 
 Date
