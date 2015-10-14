@@ -1,5 +1,5 @@
-PyDC 2014 Planning
-==================
+PyDC Planning
+=============
 
 Team
 ----
@@ -51,8 +51,6 @@ Date
 ----
 
 *Tentative*
-
-Q4 2014 / Q1 2015
 
 Schedule
 --------
